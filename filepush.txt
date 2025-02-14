@@ -5,3 +5,5 @@ Added a new line to test
 This is to test git diff
 
 This as well
+
+Testing GUI
