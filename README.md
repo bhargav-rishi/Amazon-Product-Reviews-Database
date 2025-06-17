@@ -2,7 +2,7 @@
 
 This project was developed as part of the **Advanced Database Management Systems** course. It focuses on building a robust, relational product review database using **MariaDB** with full **CRUD functionality**, **ACID compliance**, and real-world e-commerce applicability.
 
-## 📊 Dataset
+##  Dataset
 
 The dataset simulates Amazon products, users, and reviews, capturing essential attributes like:
 - Product ID, category, pricing, rating
@@ -12,7 +12,7 @@ The dataset simulates Amazon products, users, and reviews, capturing essential a
 Sourced and adapted from:  
 https://www.kaggle.com/code/mehakiftikhar/amazon-sales-dataset-eda
 
-## 🛠️ Key Features
+##  Key Features
 
 -  Three relational tables: `products`, `users`, and `reviews`
 -  Full ACID-compliant transactional design
