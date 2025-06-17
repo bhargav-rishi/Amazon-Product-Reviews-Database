@@ -1,6 +1,5 @@
 # Amazon Product Review Database – Advanced DBMS Project
 ![Built With](https://img.shields.io/badge/Built%20With-MariaDB-blue)
-![Language](https://img.shields.io/badge/Language-SQL-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 This project was developed as part of the **Advanced Database Management Systems** course. It focuses on building a robust, relational product review database using **MariaDB** with full **CRUD functionality**, **ACID compliance**, and real-world e-commerce applicability.
