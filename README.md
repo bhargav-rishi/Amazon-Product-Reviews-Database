@@ -24,7 +24,7 @@ https://www.kaggle.com/code/mehakiftikhar/amazon-sales-dataset-eda
 
 | File/Folder         | Description                                       |
 |---------------------|---------------------------------------------------|
-| `SQL/CRUD_Group_Project.sql` | Full SQL schema + CRUD operations |
+| `SQL/CRUD_Project.sql` | Full SQL schema + CRUD operations |
 | `report/Project_Report.docx` | Detailed technical report |
 | `presentation/Project_Presentation.pptx` | Final presentation deck |
 
