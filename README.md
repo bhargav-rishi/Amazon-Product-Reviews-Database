@@ -33,6 +33,8 @@ https://www.kaggle.com/code/mehakiftikhar/amazon-sales-dataset-eda
 - **Products**: `product_id` (PK)
 - **Users**: `user_id` (PK)
 - **Reviews**: `review_id` (PK), `product_id` (FK), `user_id` (FK)
+  ![image](https://github.com/user-attachments/assets/10f640cb-601f-400c-807c-de280c167924)
+
 
 ##  CRUD Operations (Sample)
 
