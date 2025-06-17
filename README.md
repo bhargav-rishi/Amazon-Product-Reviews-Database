@@ -1,5 +1,4 @@
 # Amazon Product Review Database – Advanced DBMS Project
-![License](https://img.shields.io/github/license/bhargav-rishi/Amazon-Product-Reviews-Database)
 ![Built With](https://img.shields.io/badge/Built%20With-MariaDB-blue)
 ![Language](https://img.shields.io/badge/Language-SQL-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
